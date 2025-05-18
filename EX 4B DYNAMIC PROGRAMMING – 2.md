@@ -14,13 +14,14 @@ To find the longest string (or strings) that is a substring (or are substrings) 
 7.The longest common substring is the substring of X that starts from endingIndex - maxLength and ends at endingIndex.
 ```
 ## Program:
-```
+
+```py
 
 Program to implement the longest common substring problem
 
 
-Developed by: HIRUTHIK SUDHAKAR
-Register Number:  212223240054
+Developed by: GAUTHAM KRISHNA S
+Register Number:  212223240036
 def LCS(X, Y, m, n):
  
     maxLength = 0          
