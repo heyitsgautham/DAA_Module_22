@@ -14,13 +14,14 @@ To find longest common subsequence using Dynamic Programming.
 5.The result is stored in the last cell of the table, dp[m][n], representing the length of the LCS.
  ```
 ## Program:
-```
+
+
+```py
 
 Program to implement the longest common subsequence using Dynamic Programming
 
-.
-Developed by: HIRUTHIK SUDHAKAR
-Register Number:  212223240054
+Developed by: GAUTHAM KRISHNA S
+Register Number:  212223240036
 def longest_common_subsequence(X, Y):
     m = len(X)
     n = len(Y)
