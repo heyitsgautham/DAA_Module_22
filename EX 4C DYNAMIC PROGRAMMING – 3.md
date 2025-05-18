@@ -20,8 +20,8 @@ Program to implement to find the length of the longest palindromic subsequence i
 
 .
 
-Developed by: HIRUTHIK SUDHAKAR
-Register Number:  212223240054
+Developed by: GAUTHAM KRISHNA S
+Register Number:  212223240036
 def Lps(X):
     n=len(X)
     dp=[[0 for _ in range(n)] for _ in range(n)]
